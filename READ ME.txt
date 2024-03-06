@@ -1,0 +1,7 @@
+1. Open "online python" from web browser
+
+2. Copy and paste the toy_robot.py script into the "online python" site
+
+3. To modify the commands, go to lines 49 or 50 and edit the commands there
+
+4. Run the script
